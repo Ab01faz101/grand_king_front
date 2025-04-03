@@ -6,9 +6,8 @@
 
 ```bash
 git clone https://github.com/Ab01faz101/grand_king_front.git
-cd houzz
+cd grand_king_front
 
-### 1. کلون کردن ریپازیتوری
 ```
 
 ### 2. وابستگی و کانفیگ های پروژه 
@@ -17,7 +16,6 @@ cd houzz
 ```bash
 npm install
 npm update
-### 2. نصب وابستگی‌ها
 ```
 
 ### 3. اجرای پروژه 
